@@ -9,6 +9,8 @@ This repositry contains all NLP related files. If you plan to learn NLP from Scr
 
 ### 4. The notebook 'Chatbot_Word2vec_GloVe_LSTM_RNN_GRU.ipynb'contains codes to generate Wordvec vectors in selftrained and pretrained version and Glove Pretrained version. This notebook also shows how to create an Embedding neural network layer to pass all these embeddings inside and make better prediction.
 
+### 5. The notebook GPT_3.ipynb contains simple CLI steps to fine tune the GPT 3 -> Raghavendra GMAIL account api expired -> Using Hari's account since 28/07/2022
+
 
           
 
